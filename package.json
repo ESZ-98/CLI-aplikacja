@@ -1,0 +1,21 @@
+{
+  "name": "cli-aplikacja",
+  "version": "1.0.0",
+  "description": "First Node.js Homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "contacts": "node contacts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
