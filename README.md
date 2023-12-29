@@ -1,5 +1,7 @@
 # CLI-aplikacja
 
+Polecenia i ich wyniki:
+
 # Otrzymujemy i wyprowadzamy całą listę kontaktów w postaci tabeli (console.table)
 node index.js --action list
 ![Wynik w konsoli](/images/action-list.png)
